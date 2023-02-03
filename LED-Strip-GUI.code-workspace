@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "LED-Strip",
+			"path": "../../../Documents/PlatformIO/Projects/LED-Strip"
+		}
+	],
+	"settings": {}
+}

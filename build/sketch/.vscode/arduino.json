@@ -1,0 +1,7 @@
+#line 1 "D:\\OneDrive - Jan van Zeggelaar\\Arduino\\ESP3266\\LED-Strip-GUI\\.vscode\\arduino.json"
+{
+    "board": "esp8266:esp8266:generic",
+    "port": "COM6",
+    "sketch": "LED-Strip-GUI.ino",
+    "output": "build"
+}
